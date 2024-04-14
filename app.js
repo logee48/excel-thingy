@@ -5,12 +5,12 @@ const reader = require('xlsx')
 const file = reader.readFile('./test1.xlsx')
 const port = 3000;
 const admin = require('firebase-admin');
-const serviceAccount = require('./keyy.json');
+const serviceAccount = require('./keyyy.json');
 
 // admin.initializeApp();
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://twoo-77302-default-rtdb.asia-southeast1.firebasedatabase.app"
+  databaseURL: "https://pythonconn-2578e-default-rtdb.asia-southeast1.firebasedatabase.app/"
 });
 
 const db = admin.database();
