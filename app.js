@@ -4,15 +4,31 @@ const reader = require('xlsx')
 // const file = reader.readFile('./test_data.xlsx')
 const file = reader.readFile('./test1.xlsx')
 const port = 3000;
+const admin = require('firebase-admin');
+const serviceAccount = require('./keyy.json');
 
+// admin.initializeApp();
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: "https://twoo-77302-default-rtdb.asia-southeast1.firebasedatabase.app"
+});
+
+const db = admin.database();
+
+var final_data = [];
 app.get('/', (req, res) => {
+  const timestamp = Date.now();
 let data = [] 
+db.ref('/path/to/data').set({
+  "key1": 'value1',
+  key2: 'value2'
+});
   
 // const sheets = file.SheetNames[0]
   
 // for(let i = 0; i < sheets.length; i++) 
 // { 
-const testt = {};
+var testt = {};
 const feedback_stuff = ['Does your teacher come well prepared to the class?','Does the lecture provide conceptual clarity?','The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?','Does your teacher provide more information than the text book?','Is the voice of your teacher clear and audible?','How are the communication skills of the faculty member?','Does your teacher hold attention of all the students in the class?']
    const temp = reader.utils.sheet_to_json(file.Sheets[file.SheetNames[0]])
    var aa = {};
@@ -38,16 +54,28 @@ const feedback_stuff = ['Does your teacher come well prepared to the class?','Do
     testt["before_change"] = temp[i].AVG_POINT;
     // testt[temp[i].FEEDBACK_QUERY] = (temp[i].FEEDBACK_QUERY == feedback_stuff[0]) ?(temp[i].AVG_POINT/5)*4:(temp[i].FEEDBACK_QUERY == feedback_stuff[1])?(temp[i].AVG_POINT/5)*8:(temp[i].FEEDBACK_QUERY == feedback_stuff[2])?(temp[i].AVG_POINT/5)*8:(temp[i].FEEDBACK_QUERY == feedback_stuff[3])?(temp[i].AVG_POINT/5)*10:(temp[i].FEEDBACK_QUERY == feedback_stuff[4])?(temp[i].AVG_POINT/5)*4:(temp[i].FEEDBACK_QUERY == feedback_stuff[5])?(temp[i].AVG_POINT/5)*6:(temp[i].AVG_POINT/5)*10;
     testt[temp[i].FEEDBACK_QUERY] = temp[i].AVG_POINT;
+    // console.log(testt);
+    const ballboi = temp[i].FEEDBACK_QUERY;
+    db.ref('/excel/'+i).set({
+      Staff_Name:aa[4],
+    sub_code:aa[2],
+    staff_code:aa[3],
+    Total_Point:((temp[i].AVG_POINT/5)*4)+((temp[i].AVG_POINT/5)*8)+((temp[i].AVG_POINT/5)*8)+((temp[i].AVG_POINT/5)*10)+((temp[i].AVG_POINT/5)*4)+((temp[i].AVG_POINT/5)*6)+((temp[i].AVG_POINT/5)*10),
+   before_change:temp[i].AVG_POINT
+    });
+    final_data.push(testt);
+    console.log(i);
     
     
-    console.log(testt);
+    // console.log(testt);
 
 
    }
-//    console.log(testt);
+   
    temp.forEach((res) => { 
       data.push(res) 
    })
+  //  console.log(final_data);
 // } 
 res.send(data)
 // console.log(data);
@@ -69,11 +97,12 @@ let student_data = [{
 	Marks:80 
 }] 
 
-const ws = reader.utils.json_to_sheet(student_data) 
+const ws = reader.utils.json_to_sheet(final_data) 
+// const ws = reader.utils.json_to_sheet(student_data)
 
-reader.utils.book_append_sheet(file,ws,"Sheet2") 
+reader.utils.book_append_sheet(file,ws,"real_test2") 
 reader.writeFile(file,'./test.xlsx') 
-
+res.send("done")
 })
 
 app.get("/mod",(req,res)=>{
