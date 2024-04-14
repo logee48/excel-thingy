@@ -61,7 +61,7 @@ const feedback_stuff = ['Does your teacher come well prepared to the class?','Do
     sub_code:aa[2],
     staff_code:aa[3],
     Total_Point:((temp[i].AVG_POINT/5)*4)+((temp[i].AVG_POINT/5)*8)+((temp[i].AVG_POINT/5)*8)+((temp[i].AVG_POINT/5)*10)+((temp[i].AVG_POINT/5)*4)+((temp[i].AVG_POINT/5)*6)+((temp[i].AVG_POINT/5)*10),
-   before_change:temp[i].AVG_POINT
+    testtt :[temp[i].AVG_POINT,temp[i].FEEDBACK_QUERY]
     });
     final_data.push(testt);
     console.log(i);
