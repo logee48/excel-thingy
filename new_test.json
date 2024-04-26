@@ -1,0 +1,590 @@
+[
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher come well prepared to the class?": 3.238095238095238
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does the lecture provide conceptual clarity?": 6.514285714285714
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.476190476190476
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher provide more information than the text book?": 7.857142857142857
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Is the voice of your teacher clear and audible?": 3.2
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "How are the communication skills of the faculty member?": 4.828571428571429
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher hold attention of all the students in the class?": 8
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "Does your teacher come well prepared to the class?": 3.4476190476190474
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "Does the lecture provide conceptual clarity?": 6.780952380952381
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.742857142857143
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "Does your teacher provide more information than the text book?": 8.428571428571429
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "Is the voice of your teacher clear and audible?": 3.3333333333333335
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "How are the communication skills of the faculty member?": 5.257142857142858
+    },
+    {
+      "Staff_Name": "Dr.R.Jayasree",
+      "sub_code": "BT19502",
+      "staff_code": "BT105",
+      "Does your teacher hold attention of all the students in the class?": 8.523809523809524
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher come well prepared to the class?": 3.3523809523809525
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does the lecture provide conceptual clarity?": 6.628571428571429
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.704761904761905
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher provide more information than the text book?": 8.19047619047619
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Is the voice of your teacher clear and audible?": 3.4666666666666663
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "How are the communication skills of the faculty member?": 5.142857142857142
+    },
+    {
+      "Staff_Name": "Dr.R.V.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher hold attention of all the students in the class?": 8.571428571428571
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "Does your teacher come well prepared to the class?": 3.7333333333333334
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "Does the lecture provide conceptual clarity?": 7.428571428571429
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 7.39047619047619
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "Does your teacher provide more information than the text book?": 9.238095238095237
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "Is the voice of your teacher clear and audible?": 3.7142857142857144
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "How are the communication skills of the faculty member?": 5.542857142857143
+    },
+    {
+      "Staff_Name": "Dr.M.Sankar",
+      "sub_code": "BT19504",
+      "staff_code": "BT33",
+      "Does your teacher hold attention of all the students in the class?": 9.19047619047619
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher come well prepared to the class?": 3.5
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does the lecture provide conceptual clarity?": 6.8
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.7666666666666675
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher provide more information than the text book?": 8.541666666666666
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Is the voice of your teacher clear and audible?": 3.4166666666666665
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "How are the communication skills of the faculty member?": 5.324999999999999
+    },
+    {
+      "Staff_Name": "Dr.T.Anitha",
+      "sub_code": "BT19501",
+      "staff_code": "BT122",
+      "Does your teacher hold attention of all the students in the class?": 8.375
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "Does your teacher come well prepared to the class?": 3.4833333333333334
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "Does the lecture provide conceptual clarity?": 6.7
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.666666666666667
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "Does your teacher provide more information than the text book?": 8.333333333333334
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "Is the voice of your teacher clear and audible?": 3.6
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "How are the communication skills of the faculty member?": 5.225
+    },
+    {
+      "Staff_Name": "Dr.B.Vijayageetha",
+      "sub_code": "BT19502",
+      "staff_code": "BT114",
+      "Does your teacher hold attention of all the students in the class?": 8.75
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher come well prepared to the class?": 3.5833333333333335
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does the lecture provide conceptual clarity?": 7
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.9
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher provide more information than the text book?": 8.666666666666666
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Is the voice of your teacher clear and audible?": 3.6833333333333336
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "How are the communication skills of the faculty member?": 5.25
+    },
+    {
+      "Staff_Name": "Dr.RV.Hemavathy",
+      "sub_code": "BT19503",
+      "staff_code": "BT131",
+      "Does your teacher hold attention of all the students in the class?": 8.833333333333334
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "Does your teacher come well prepared to the class?": 3.4833333333333334
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "Does the lecture provide conceptual clarity?": 6.7333333333333325
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.9
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "Does your teacher provide more information than the text book?": 8.666666666666666
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "Is the voice of your teacher clear and audible?": 3.5333333333333337
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "How are the communication skills of the faculty member?": 5.35
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19504",
+      "staff_code": "BT174",
+      "Does your teacher hold attention of all the students in the class?": 8.916666666666666
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "Does your teacher come well prepared to the class?": 3.5636363636363635
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "Does the lecture provide conceptual clarity?": 7.127272727272727
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 7.127272727272727
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "Does your teacher provide more information than the text book?": 8.545454545454545
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "Is the voice of your teacher clear and audible?": 3.672727272727273
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "How are the communication skills of the faculty member?": 5.50909090909091
+    },
+    {
+      "Staff_Name": "Dr.R.Anila",
+      "sub_code": "BT19501",
+      "staff_code": "BT85",
+      "Does your teacher hold attention of all the students in the class?": 9.045454545454545
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "Does your teacher come well prepared to the class?": 3.1818181818181817
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "Does the lecture provide conceptual clarity?": 5.5636363636363635
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.036363636363637
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "Does your teacher provide more information than the text book?": 7.818181818181818
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "Is the voice of your teacher clear and audible?": 2.8363636363636364
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "How are the communication skills of the faculty member?": 4.418181818181818
+    },
+    {
+      "Staff_Name": "Ms.SR.Saranya",
+      "sub_code": "BT19502",
+      "staff_code": "BT165",
+      "Does your teacher hold attention of all the students in the class?": 6.7727272727272725
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "Does your teacher come well prepared to the class?": 3.036363636363636
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "Does the lecture provide conceptual clarity?": 5.890909090909091
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 5.818181818181818
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "Does your teacher provide more information than the text book?": 7.40909090909091
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "Is the voice of your teacher clear and audible?": 3.109090909090909
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "How are the communication skills of the faculty member?": 4.554545454545455
+    },
+    {
+      "Staff_Name": "Ms.Sangeetha gandhi",
+      "sub_code": "BT19503",
+      "staff_code": "BT169",
+      "Does your teacher hold attention of all the students in the class?": 7.363636363636363
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "Does your teacher come well prepared to the class?": 3.6
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "Does the lecture provide conceptual clarity?": 7.090909090909091
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 7.0181818181818185
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "Does your teacher provide more information than the text book?": 9
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "Is the voice of your teacher clear and audible?": 3.581818181818182
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "How are the communication skills of the faculty member?": 5.481818181818182
+    },
+    {
+      "Staff_Name": "Dr.S.Thiruvengadam",
+      "sub_code": "BT19504",
+      "staff_code": "BT109",
+      "Does your teacher hold attention of all the students in the class?": 9
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "Does your teacher come well prepared to the class?": 3.6862745098039214
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "Does the lecture provide conceptual clarity?": 7.403921568627451
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 7.184313725490196
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "Does your teacher provide more information than the text book?": 8.980392156862745
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "Is the voice of your teacher clear and audible?": 3.5450980392156866
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "How are the communication skills of the faculty member?": 5.294117647058824
+    },
+    {
+      "Staff_Name": "Mr.T.Babu",
+      "sub_code": "BT19P51",
+      "staff_code": "BT106",
+      "Does your teacher hold attention of all the students in the class?": 9.098039215686274
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "Does your teacher come well prepared to the class?": 3.5
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "Does the lecture provide conceptual clarity?": 6.8
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?": 6.833333333333333
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "Does your teacher provide more information than the text book?": 8.291666666666666
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "Is the voice of your teacher clear and audible?": 3.4833333333333334
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "How are the communication skills of the faculty member?": 5.175000000000001
+    },
+    {
+      "Staff_Name": "Ms.Sujagayathri",
+      "sub_code": "BT19P51",
+      "staff_code": "BT174",
+      "Does your teacher hold attention of all the students in the class?": 8.708333333333334
+    }
+  ]

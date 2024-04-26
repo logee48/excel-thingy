@@ -1,0 +1,49 @@
+[
+  {
+    "Staff_Name": "Dr.T.Anitha",
+    "Total_Point": 40.476190476190474,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+      "Does your teacher come well prepared to the class?":4.0476190476190474
+  },
+  {
+    "Staff_Name": "Dr.T.Anitha",
+    "Total_Point": 40.71428571428571,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+    "Does the lecture provide conceptual clarity?":4.071428571428571
+  },
+  {
+    "Staff_Name": "Dr.T.Anitha",
+    "Total_Point": 40.476190476190474,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+      "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?":4.0476190476190474
+  },
+
+
+
+
+
+  {
+    "Staff_Name": "raj",
+    "Total_Point": 39.285714285714285,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+     "Does your teacher come well prepared to the class?":4.0476190476190474
+  },
+  {
+    "Staff_Name": "raj",
+    "Total_Point": 40,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+    "Does the lecture provide conceptual clarity?":4.071428571428571
+  },
+  {
+    "Staff_Name": "raj",
+    "Total_Point": 40.23809523809524,
+    "staff_code": "BT122",
+    "sub_code": "BT19501",
+    "The course involves primarily descriptive topics. Explanation of the principles, linking concepts and ideas with real life applications through case studies and demonstration by the faculty?":4.0476190476190474
+  }
+]
